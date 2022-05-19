@@ -1,21 +1,29 @@
-* {
-  font-family: Arial, Helvetica, sans-serif;
+body{
+font-family: arial, helvatica;
+background:grey;
 }
 
-html, body {
-  margin: 0;
-  border: 0;
-  padding: 0;
-  background-color: #fff;
+.menu{
+list-style: none;
+padding: 0;
+background: #092327;
+width: 90%;
+max-width: 1000px;
+margin: auto;
 }
 
-main {
-  margin: auto;
-  width: 50%;
-  padding: 20px;
+.menu li a{
+text-decoration: none;
+color: darkred;
+padding: 60px;
+display: auto
 }
 
-main > h1 {
-  text-align: center;
-  font-size: 3.5em;
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+background:white;
 }
