@@ -1,6 +1,19 @@
 body{
 font-family: arial, helvatica;
-background:grey;
+background:#E37E68;
+}
+
+.menu{
+list-style: none;
+padding: 0;
+background: #092327;
+width: 90%;
+max-width: 1000px;
+margin: auto;
+}
+body{
+font-family: arial, helvatica;
+background:#E37E68;
 }
 
 .menu{
@@ -14,7 +27,7 @@ margin: auto;
 
 .menu li a{
 text-decoration: none;
-color: darkred;
+color: white;
 padding: 60px;
 display: auto
 }
@@ -25,5 +38,216 @@ text-align: center;
 }
 
 .menu li a:hover{
-background:white;
+background:seagreen;
+}body{
+font-family: arial, helvatica;
+background:#E37E68;
+}
+
+.menu{
+list-style: none;
+padding: 0;
+background: #092327;
+width: 90%;
+max-width: 1000px;
+margin: auto;
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 60px;
+display: auto
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+background:seagreen;
+}body{
+font-family: arial, helvatica;
+background:#E37E68;
+}
+
+.menu{
+list-style: none;
+padding: 0;
+background: #092327;
+width: 90%;
+max-width: 1000px;
+margin: auto;
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 60px;
+display: auto
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+background:seagreen;
+}body{
+font-family: arial, helvatica;
+background:#E37E68;
+}
+
+.menu{
+list-style: none;
+padding: 0;
+background: #092327;
+width: 90%;
+max-width: 1000px;
+margin: auto;
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 60px;
+display: auto
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+background:seagreen;
+}
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 60px;
+display: auto
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+background:seagreen;
+}body{
+font-family: arial, helvatica;
+background:#E37E68;
+}
+
+.menu{
+list-style: none;
+padding: 0;
+background: #092327;
+width: 90%;
+max-width: 1000px;
+margin: auto;
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 60px;
+display: auto
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+background:seagreen;
+}body{
+font-family: arial, helvatica;
+background:#E37E68;
+}
+
+.menu{
+list-style: none;
+padding: 0;
+background: #092327;
+width: 90%;
+max-width: 1000px;
+margin: auto;
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 60px;
+display: auto
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+background:seagreen;
+}body{
+font-family: arial, helvatica;
+background:#E37E68;
+}
+
+.menu{
+list-style: none;
+padding: 0;
+background: #092327;
+width: 90%;
+max-width: 1000px;
+margin: auto;
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 60px;
+display: auto
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+background:seagreen;
+}body{
+font-family: arial, helvatica;
+background:#E37E68;
+}
+
+.menu{
+list-style: none;
+padding: 0;
+background: #092327;
+width: 90%;
+max-width: 1000px;
+margin: auto;
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 60px;
+display: auto
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+background:seagreen;
 }
